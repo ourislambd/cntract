@@ -1,4 +1,4 @@
-var password = prompt("সাইট এক্সেস করতে পাসওয়ার্ড দিন:");
+var password = prompt("সাইট এক্সেস যোগাযোগ করুন 01771687270:");
   if (password === "YOUR_PASSWORD") {
     document.body.style.display = 'block';
   } else {
